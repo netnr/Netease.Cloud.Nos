@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;netstandard2.0</TargetFrameworks>
+    <Version>1.0.0.11</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>netnr</Authors>
+    <Company>Netease</Company>
+    <Description>网易云对象存储，根据源码编译多版本支持，跟官网同步更新</Description>
+    <Copyright>Netease</Copyright>
+    <PackageLicenseUrl>https://github.com/netnr/Netease.Cloud.Nos/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/netnr/Netease.Cloud.Nos</PackageProjectUrl>
+    <PackageIconUrl>https://www.163yun.com/favicon.ico</PackageIconUrl>
+    <PackageTags>Netease.Cloud.Nos nos-dotnet-sdk</PackageTags>
+    <PackageReleaseNotes>支持 .net core 与 .net framework</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
